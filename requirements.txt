@@ -1,0 +1,6 @@
+aiogram>=3.4.0
+sqlalchemy>=2.0.0
+asyncpg               # Драйвер для Postgres
+pydantic-settings     # Для работы с .env
+img2pdf               # Для конвертации фото
+pdf2docx              # Для PDF -> Word
